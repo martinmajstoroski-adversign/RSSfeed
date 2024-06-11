@@ -5,7 +5,7 @@
     <link>https://dein-username.github.io/dein-repo</link>
     <description>Beschreibung deines Feeds</description>
     <item>
-      <title>Artikel 1</title>
+      <title>Artikel 1 </title>
       <link>https://dein-username.github.io/dein-repo/artikel-1</link>
       <description>Beschreibung des Artikels 1</description>
       <enclosure url="https://dein-username.github.io/dein-repo/images/bild1.jpg" type="image/jpeg" />
